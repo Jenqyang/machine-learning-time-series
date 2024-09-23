@@ -58,5 +58,3 @@ conda create -n mltool python=3.8
 conda activate mltool
 python -m pip install -r requirements.txt
 ```
-
-欢迎批评指正. E-mail: jenqyanghou@gamil.com
